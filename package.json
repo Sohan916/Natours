@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sohan916/Natours/issues"
   },
-  "homepage": "https://github.com/Sohan916/Natours#readme"
+  "homepage": "https://github.com/Sohan916/Natours#readme",
+  "devDependencies": {
+    "sass": "^1.93.2"
+  }
 }
